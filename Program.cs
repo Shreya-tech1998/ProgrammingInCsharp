@@ -6,6 +6,7 @@ namespace IntroductionToProgramming//ProgrammingInCSharp
     {
         static void Main(string[] args)
         {
+            // Made some changes
             // Introduction to Programming
             Console.WriteLine("Running Introduction to Programming (Basic Syntax)...");
             // IntroductionToProgramming.VariablesAndDataTypes.RunExample();
